@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+    color: #0e0d0d;
+
+}
+
+img{
+    cursor: pointer;
+
+}
+
+.flex-div{
+    display: flex;
+    align-items : center;
+    
+    
+}
+.logo{
+    height:90px;
+    width: 150px;
+}
+
+.user-icon{
+    height: 43px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+
